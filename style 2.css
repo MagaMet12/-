@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 body {
     background-image: url(1626178206_48-kartinkin-com-p-naruto-zadnii-fon-krasivo-57.png);
     background-size: cover;
@@ -73,6 +75,7 @@ p {
     margin-right: 35%;
     font-size: 19px;
     color: rgb(0, 0, 0);
+    font-family: 'Press Start 2P', cursive;
 }
 
 h1 {
