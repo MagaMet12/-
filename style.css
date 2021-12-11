@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 #menu ul {
     position: relative;
@@ -74,6 +75,7 @@ p {
     font-size: 22px;
     margin-right: 63%;
     margin-left: 10%;
+    font-family: 'Press Start 2P', cursive;
 }
 
 img {
